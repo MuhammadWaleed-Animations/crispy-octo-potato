@@ -6,7 +6,7 @@ const galleryImages = [
   {
     id: 1,
     title: "Team Collaboration",
-    image: "/collaboration.webp",
+    image: "/team-collaboration.jpeg",
   },
   {
     id: 2,
