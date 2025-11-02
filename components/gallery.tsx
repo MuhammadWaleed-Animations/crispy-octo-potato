@@ -6,32 +6,32 @@ const galleryImages = [
   {
     id: 1,
     title: "Team Collaboration",
-    image: "/team-working-together.jpg",
+    image: "/collaboration.webp",
   },
   {
     id: 2,
-    title: "Innovation Workshop",
-    image: "/tech-workshop.jpg",
+    title: "Innovation",
+    image: "/innovation.avif",
   },
   {
     id: 3,
     title: "Project Showcase",
-    image: "/project-presentation.jpg",
+    image: "/project-presentation.jpeg",
   },
   {
     id: 4,
     title: "Creative Session",
-    image: "/creative-brainstorm.jpg",
+    image: "/creative-brainstorm.jpeg",
   },
   {
     id: 5,
-    title: "Development Sprint",
-    image: "/coding-session.jpg",
+    title: "Relentless Pursuit",
+    image: "/Relentless-Pursuit.avif",
   },
   {
     id: 6,
-    title: "Design Review",
-    image: "/design-review.jpg",
+    title: "Designing",
+    image: "/design-review.jpeg",
   },
 ]
 
